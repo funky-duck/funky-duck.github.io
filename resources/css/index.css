@@ -13,6 +13,8 @@
   background-color: #795949;
   color: #D7DFE2;
   text-size: 20px;
+  margin: auto;
+  width: auto;
   
 }
  
@@ -32,4 +34,6 @@
   background-color: #795949;
   color: white;
   padding: 40px;
+  margin: auto;
+  width: auto;
 }
